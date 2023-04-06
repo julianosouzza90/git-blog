@@ -4,7 +4,7 @@ O projeto de blog do Github é uma aplicação desenvolvida para colocar em prá
 
 
 ### Instalação
-- git clone git@github.com:julianosouzza90/chalenge-git-blog.git
+- git clone git@github.com:julianosouzza90/git-blog.git
 - cd chalenge-git-blog
 - npm install 
 
